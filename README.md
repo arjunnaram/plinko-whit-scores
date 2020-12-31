@@ -1,2 +1,1 @@
-# plinko-whit-scores
-score.
+
